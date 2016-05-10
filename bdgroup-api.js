@@ -7,7 +7,7 @@
 		Client.Services = {
 			Responses: {
 				Available: "",//MESSAGE FOR AVAIL
-				Unavailable: ""//MESSAGE FOR UNAVAIL
+				Unavailable: "",//MESSAGE FOR UNAVAIL
 				OrderMessage: "" //ORDER MESSAGEE
 			}
 		}
